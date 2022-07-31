@@ -1,0 +1,17 @@
+aiohttp
+aiofiles
+asyncio
+dnspython
+ffmpeg-python
+future
+git+https://github.com/ActiveX/downloader@ActiveX
+git+https://github.com/BHAGWANUSERBOT/ActiveX_search@master
+git+https://github.com/BHAGWANUSERBOT/ActiveX-search-python@main
+pillow
+psutil
+pyrogram==1.4.16
+py-tgcalls==0.8.6
+python-dotenv
+requests
+tgcrypto
+wget
